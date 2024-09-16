@@ -23,8 +23,7 @@ Class will follow a familiar schedule (all times approximate)
 > \- 10am-1130am: Work time, send bugs to the screen for class debugging  
 
 ## Schedule (see grid)
-
-> <img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Fcf11c560-a360-4687-b481-7b86cdf76ab5&w=384&q=75" width="15" height="15" style="vertical-align: -2px;"> [Weekly Grid: Open Source Software in Practice (CS4387)
+<img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Fcf11c560-a360-4687-b481-7b86cdf76ab5&w=384&q=75" width="15" height="15" style="vertical-align: -2px;"> [Weekly Grid: Open Source Software in Practice (CS4387)
 ]([https://docs.google.com/spreadsheets/d/1yWwf-fh3PES6CIb6Tr_0IHoXCXhu7YPrcLnqztgNYm0/edit?gid=0#gid=0](https://github.com/bennColl-cs4387/Sizar/blob/main/class_schedule.md))
 
 ## Grading Policies
