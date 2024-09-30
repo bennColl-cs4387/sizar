@@ -15,6 +15,5 @@ Additionally, I am exploring the [**Amazon Q for command line**](https://github.
 I am currently looking at several websites to find interesting projects, including:
 - [Good First Issues](https://goodfirstissues.com/)
 - [Awesome for Beginners GitHub Repo](https://github.com/MunGell/awesome-for-beginners)
-- [Amazon Q Command Line Discussions GitHub](https://github.com/aws/q-command-line-discussions)
 
 These resources have been helpful in identifying projects that match my skillset and where I can make meaningful contributions. I will continue looking for a project and update this evaluation when I find the codbase I want to work on for my first open source contribution.
