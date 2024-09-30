@@ -8,7 +8,7 @@ For my first open-source contribution, I plan to start by working on beginner-le
 One example is the [**PyCaret**](https://github.com/pycaret/pycaret/issues) library, which simplifies machine learning workflows with minimal code. I have relevant experience in machine learning and data science, making this project a good fit. I am comfortable with libraries like **scikit-learn** and **pandas**, which will be useful to contribute to pycaret.
 
 ### Amazon Q for Command Line
-Additionally, I am exploring the [**Amazon Q for command line**](https://github.com/aws/q-command-line-discussions) project. I use this tool regularly, and contributing to it would align with my technical knowledge in command-line tools and my interest in cloud services. I am looking for entry-level issues related to Python scripting or shell commands that I can help resolve.
+Additionally, I am exploring the [**Amazon Q for command line**](https://github.com/aws/q-command-line-discussions) (previously [Fig](https://github.com/withfig/autocomplete)) project. I use this tool regularly, and contributing to it would align with my technical knowledge in command-line tools and my interest in cloud services. I am looking for entry-level issues related to Python scripting or shell commands that I can help resolve.
 
 ## Resources for Finding Projects
 
