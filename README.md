@@ -7,3 +7,5 @@ As part of the first assignment, I have added the syllabus and class grid to thi
   
 As part of the second assignment, I have added the history of my terminal commands to solve the [git murder mystery](https://github.com/nivbend/gitstery):  
 &rarr; [How I Solved the Git Murder Mystery](https://github.com/bennColl-cs4387/Sizar/blob/main/gmm/gmm_history_sizar.txt) 
+
+As part of the third assignment, I have added the [codebase evaluation](https://github.com/bennColl-cs4387/Sizar/blob/main/first-fix/codbase-evaluation.md) for my first fix. 
