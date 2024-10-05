@@ -1,6 +1,6 @@
 # PyCaret Build From Source
 
-I have followed the guidelines outlined in the [PyCaret Docs](https://pycaret.gitbook.io/docs/get-started/installation) to install PyCaret on my machine.
+I have followed the guidelines outlined in the [PyCaret Docs](https://pycaret.gitbook.io/docs/get-started/installation) to install PyCaret on my machine. The steps were simple, and I didn't face any difficulty, except the optional depencies were taking a long time to download, which I aborted later, as I don't need them to build the library from source (at least for now!).
 
 ## Step 1: Forking the PyCaret Repository
 
@@ -1545,4 +1545,4 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> exit()
 ```
 
-PyCaret was successfully imported without any errors, confirming that the build 
+PyCaret was successfully imported without any errors, confirming that the build works succesfully!
