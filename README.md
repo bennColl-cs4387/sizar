@@ -12,5 +12,5 @@ As part of the third assignment, I have added the [codebase evaluation](https://
 
 For the fourth assignment, I have documented how I [built PyCaret from source](https://github.com/bennColl-cs4387/sizar/blob/main/first-issue/build_from_source.md) on my local machine.
 
-I am writing an essay on my pick for the first fix and solution proposal:   
+I am writing an essay on my pick for the first fix and solution proposal here:   
 &rarr; [Sizar - CS4387-Essay-Picking-First-Issue](https://docs.google.com/document/d/1y63Nj9xfDUoSn9NVLLc2NCfYrLQRbkg7Me7EKZ3WW9I)
