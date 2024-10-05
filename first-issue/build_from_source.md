@@ -38,11 +38,7 @@ After activating the virtual environment, I installed the necessary dependencies
 ```bash
 (pycaret-env) ➜  pycaret git:(build-from-source) ✗ pip install -r requirements.txt
 ```
-<!-- <div style="max-height: 200px; overflow-y: auto; margin-bottom: 15px;"><pre><code> -->
-<details>
-    <summary><u>show output</u><summary>
-    ```bash
-    Ignoring setuptools: markers 'python_version >= "3.12"' don't match your environment
+<div style="max-height: 200px; overflow-y: auto; margin-bottom: 15px;"><pre><code>Ignoring setuptools: markers 'python_version >= "3.12"' don't match your environment
 Collecting ipython>=5.5.0
   Using cached ipython-8.18.1-py3-none-any.whl (808 kB)
 Collecting ipywidgets>=7.6.5
@@ -552,10 +548,7 @@ Installing collected packages: urllib3-secure-extra, dash-testing-stub, appdirs,
     Found existing installation: urllib3 2.2.3
     Uninstalling urllib3-2.2.3:
       Successfully uninstalled urllib3-2.2.3
-Successfully installed PySocks-1.7.1 adagio-0.2.6 appdirs-1.4.4 beautifulsoup4-4.12.3 boto3-1.35.34 botocore-1.35.34 cffi-1.17.1 cryptography-43.0.1 dash-testing-stub-0.0.2 dask-2024.8.0 dask-expr-1.1.10 dill-0.3.9 distributed-2024.8.0 fs-2.4.16 fsspec-2024.9.0 fugue-0.9.1 h11-0.14.0 iniconfig-2.0.0 jmespath-1.0.1 locket-1.0.0 lxml-5.3.0 moto-4.2.14 msgpack-1.1.0 multiprocess-0.70.17 partd-1.4.2 percy-2.0.2 pluggy-1.5.0 pyOpenSSL-24.2.1 pyarrow-17.0.0 pycparser-2.22 pytest-8.3.2 pyyaml-6.0.2 responses-0.25.3 s3transfer-0.10.2 selenium-4.2.0 soupsieve-2.6 tblib-3.0.0 toolz-1.0.0 tornado-6.4.1 triad-0.9.8 trio-websocket-0.11.1 urllib3-1.26.20 urllib3-secure-extra-0.1.0 waitress-3.0.0 wsproto-1.2.0 xmltodict-0.13.0 zict-3.0.0
-```
-</details>
-<!-- </code></pre></div> -->
+Successfully installed PySocks-1.7.1 adagio-0.2.6 appdirs-1.4.4 beautifulsoup4-4.12.3 boto3-1.35.34 botocore-1.35.34 cffi-1.17.1 cryptography-43.0.1 dash-testing-stub-0.0.2 dask-2024.8.0 dask-expr-1.1.10 dill-0.3.9 distributed-2024.8.0 fs-2.4.16 fsspec-2024.9.0 fugue-0.9.1 h11-0.14.0 iniconfig-2.0.0 jmespath-1.0.1 locket-1.0.0 lxml-5.3.0 moto-4.2.14 msgpack-1.1.0 multiprocess-0.70.17 partd-1.4.2 percy-2.0.2 pluggy-1.5.0 pyOpenSSL-24.2.1 pyarrow-17.0.0 pycparser-2.22 pytest-8.3.2 pyyaml-6.0.2 responses-0.25.3 s3transfer-0.10.2 selenium-4.2.0 soupsieve-2.6 tblib-3.0.0 toolz-1.0.0 tornado-6.4.1 triad-0.9.8 trio-websocket-0.11.1 urllib3-1.26.20 urllib3-secure-extra-0.1.0 waitress-3.0.0 wsproto-1.2.0 xmltodict-0.13.0 zict-3.0.0</code></pre></div>
 
 ## Step 5: Buidling PyCaret From Source
 
