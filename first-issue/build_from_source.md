@@ -11,6 +11,8 @@ I forked the PyCaret repository [here](https://github.com/mhsizar/pycaret).
 After the repository was forked, I cloned it to my local machine: 
 ```bash
 Class git clone https://github.com/mhsizar/pycaret.git
+```
+```bash
 Cloning into 'pycaret'...
 remote: Enumerating objects: 30102, done.
 remote: Counting objects: 100% (468/468), done.
@@ -1526,4 +1528,21 @@ Best match: itsdangerous 2.2.0
 Adding itsdangerous 2.2.0 to easy-install.pth file
 
 Using /Users/mhsizar/Desktop/Class/pycaret/pycaret-env/lib/python3.9/site-packages
-Finished processing dependencies for pycaret==3.4.0
+Finished processing dependencies for pycaret==3.4.0</code></pre></div>
+
+## Testing the Build
+
+To verify the success of the build, I imported the PyCaret library in a Python shell:
+
+```bash
+(pycaret-env) ➜  pycaret git:(build-from-source) ✗ python
+```
+```python
+Python 3.9.6 (default, Aug  9 2024, 14:24:13) 
+[Clang 16.0.0 (clang-1600.0.26.3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import pycaret
+>>> exit()
+```
+
+PyCaret was successfully imported without any errors, confirming that the build 
