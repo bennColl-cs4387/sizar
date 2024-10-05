@@ -10,5 +10,7 @@ As part of the second assignment, I have added the history of my terminal comman
 
 As part of the third assignment, I have added the [codebase evaluation](https://github.com/bennColl-cs4387/sizar/blob/main/first-issue/codbase-evaluation.md) for my first fix. 
 
-For the fourth assignment, I am writing an essay on my pick for the first fix and solution proposal:   
+For the fourth assignment, I have documented how I [built PyCaret from source](https://github.com/bennColl-cs4387/sizar/blob/main/first-issue/build_from_source.md) on my local machine.
+
+I am writing an essay on my pick for the first fix and solution proposal:   
 &rarr; [Sizar - CS4387-Essay-Picking-First-Issue](https://docs.google.com/document/d/1y63Nj9xfDUoSn9NVLLc2NCfYrLQRbkg7Me7EKZ3WW9I)
