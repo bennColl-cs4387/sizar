@@ -15,4 +15,4 @@ For the fourth assignment, I have documented how I [built PyCaret from source](h
 I have written an essay on my pick for the first fix and solution proposal here:   
 &rarr; [Sizar - CS4387-Essay-Picking-First-Issue](https://docs.google.com/document/d/1y63Nj9xfDUoSn9NVLLc2NCfYrLQRbkg7Me7EKZ3WW9I)
 
-I have been working with Arpon and Sinha to fix the [PyCaret Issue #3011](https://github.com/pycaret/pycaret/issues/3011). We have documented our progress on the group work [here](https://github.com/bennColl-cs4387/sizar/blob/main/group-fix/group_fix.md)
+I have been working with Arpon and Sinha to fix the [PyCaret Issue #3011](https://github.com/pycaret/pycaret/issues/3011). We have documented our progress on the group work [here](https://github.com/bennColl-cs4387/sizar/blob/main/group-fix/group_fix.md).
