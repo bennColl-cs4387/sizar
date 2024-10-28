@@ -43,7 +43,7 @@ PyCaret's original setup method directly assigned the fold parameter (`self.fold
 
 #### Fix in `_set_fold_generator`
 
-The `_set_fold_generator` function was modified to calculate the fold count for complex CV objects like `ExpandingWindowSplitter`.
+The `_set_fold_generator` function in the [oop.py](https://github.com/pycaret/pycaret/blob/97649adf8965fd02831c14982a48323b6ce7de4c/pycaret/time_series/forecasting/oop.py#L967) file under time_series/forecasting directory was modified to calculate the fold count for complex CV objects like `ExpandingWindowSplitter`.
 
 #### Solution Code
 
@@ -66,7 +66,7 @@ def _set_fold_generator(self) -> "TSForecastingExperiment":
         self.fold_generator = self.get_fold_generator(fold=self.fold)
         self.fold_param = (
             self.fold_generator.get_n_splits(y=self.y_train)
-            if hasattr(self.fold_generator, 'get_n_splits') else None
+            if hasattr(self.fold_generator, 'get_n_splits') else None  
         )
     else:
         self.fold_generator = self.fold_strategy
