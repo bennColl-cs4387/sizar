@@ -20,7 +20,7 @@ Class will follow a familiar schedule (all times approximate)
 > \- 10am-1130am: Work time, send bugs to the screen for class debugging  
 
 ## Schedule (see grid)
-> <a href="https://docs.google.com/spreadsheets/d/1yWwf-fh3PES6CIb6Tr_0IHoXCXhu7YPrcLnqztgNYm0"><img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Fcf11c560-a360-4687-b481-7b86cdf76ab5&w=384&q=75" width="15" height="15" style="vertical-align: -4px;"></a> [Weekly Grid: Open Source Software in Practice (CS4387)](https://github.com/bennColl-cs4387/sizar/blob/main/Syllabus/class_schedule.md)  
+> <a href="https://docs.google.com/spreadsheets/d/1yWwf-fh3PES6CIb6Tr_0IHoXCXhu7YPrcLnqztgNYm0"><img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Fcf11c560-a360-4687-b481-7b86cdf76ab5&w=384&q=75" width="15" height="15" style="vertical-align: -4px;"></a> [Weekly Grid: Open Source Software in Practice (CS4387)](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-3/class_schedule.md)  
 
 ## Grading Policies
 The course will be graded heavily on participation. I expect you to be committing <u>meaningful code</u> _every week_. 
