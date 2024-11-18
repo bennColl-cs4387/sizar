@@ -16,6 +16,7 @@
     - Introduced a `"plots"` key in the `extras_require` dictionary to enable optional installation via `pip install pycaret[plots]`.
     - Ensured all adjustments are consistent with the existing structure and practices of the PyCaret project.
   - **Uninstall and Reinstall Testing**: Verified installation behavior with and without the optional dependencies to ensure the modification worked as intended.
+  - See the file changes [here](https://github.com/pycaret/pycaret/compare/master...mhsizar:pycaret:optional-dependencies).
 - **In Progress**:
   - **Error Handling**: Modifying relevant code sections to raise meaningful errors when plotting libraries are missing and provide clear instructions for users to install them.
   - **Comprehensive Testing**: Implementing test cases to confirm that PyCaret remains functional when the optional plotting dependencies are not installed.
