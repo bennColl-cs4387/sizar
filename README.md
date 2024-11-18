@@ -19,5 +19,6 @@ I have been working with Arpon and Sinha to fix the [PyCaret Issue #3011](https:
 &rarr; Our final solution proposal to the fix is documented [here](https://github.com/bennColl-cs4387/sizar/blob/main/assignments/group-fix/pycaret-3011/pycaret_3011.md). 
 
 For my first solo fix, I am working on the PyCaret [Issue #4066](https://github.com/pycaret/pycaret/issues/4066).   
-&rarr; I have documented my week-11 progress [here](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-11/progress_report_solo_fix_pycaret_4066.md). 
+&rarr; I have documented my week-11 progress [here](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-11/progress_report_solo_fix_pycaret_4066.md).   
+&rarr; I have documented my week-12 progress [here](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-12/progress_report_solo_fix_pycaret_4066.md). 
 
