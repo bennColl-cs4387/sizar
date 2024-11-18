@@ -2,7 +2,7 @@
 This is Sizar's repository for the CS4387 class
 
 As part of the first homework, I have added the syllabus and class grid to this repository:  
-&rarr; [Class Syllabus: Open Source Software in Practice (CS4387)](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-3/class_syllabus.md)  
+&rarr; [Class Syllabus: Open Source Software in Practice (CS4387)](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-03/class_syllabus.md)  
 &rarr; [Weekly Grid: Open Source Software in Practice (CS4387)](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-03/class_schedule.md)  
   
 As part of the second homework, I have added the history of my terminal commands to solve the [git murder mystery](https://github.com/nivbend/gitstery):  
