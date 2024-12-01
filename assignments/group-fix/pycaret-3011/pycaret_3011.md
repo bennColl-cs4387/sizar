@@ -5,7 +5,7 @@
 #### Issue Summary
 The original issue, [PyCaret Issue #3011](https://github.com/pycaret/pycaret/issues/3011), involved the `Fold Number` field displaying the entire `ExpandingWindowSplitter` object instead of the actual fold count in the setup summary when using certain cross-validation (CV) strategies in `pycaret.time_series`. Users expected a simple number indicating the count of folds, not a complex object reference, which made the output confusing.  
 
-![https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-9/issue.png](/homework/week-9/issue.png)
+![https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-09/issue.png](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-09/issue.png)
 
 #### Reproducing the Issue
 
@@ -30,7 +30,7 @@ exp.setup(y, fh=12, fold=cv)
 
 ##### Dataset and Cross-Validation Setup
 
-- **Dataset**: `get_data(114, folder="time_series/seasonal")` returns a time series [dataset with 171 data points](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-9/dataset_114.csv). 
+- **Dataset**: `get_data(114, folder="time_series/seasonal")` returns a time series [dataset with 171 data points](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-09/dataset_114.csv). 
 - **ExpandingWindowSplitter**: Expands the training window by a fixed step each fold:
   - `initial_window=24`: Initial training window size.
   - `step_length=4`: Adds 4 points to the training window in each fold.
