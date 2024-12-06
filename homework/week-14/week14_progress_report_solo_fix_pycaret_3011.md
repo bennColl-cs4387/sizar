@@ -23,3 +23,9 @@
 - **Why I switched from the group solution**:
   - The initial group solution did not validate the `fold` parameter type, leading to potential misuse when CV objects were incorrectly passed to it.
   - This solo fix ensures stricter type checking and provides a clear error message to guide users, addressing the core issue.
+
+---
+
+### Status Update
+
+All tasks related to this issue have been completed, and the pull request has been created: [Pull Request #4104](https://github.com/pycaret/pycaret/pull/4104). Awaiting review and feedback from PyCaret maintainers.
