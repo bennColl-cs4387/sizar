@@ -25,5 +25,7 @@ For my first solo fix, I have worked on the PyCaret [Issue #4066](https://github
 &rarr; I have submitted a [pull request](https://github.com/pycaret/pycaret/pull/4102) fixing the [Issue #4066](https://github.com/pycaret/pycaret/issues/4066) and [documented the solution](https://github.com/bennColl-cs4387/sizar/blob/main/assignments/solo-fixes/pycaret-4066/pycaret_4066.md).  
 
 Over the week-14, I worked on the PyCaret [Issue #3011](https://github.com/pycaret/pycaret/issues/3011).   
-&rarr; I have documented my week-14 progress [here](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-14/week14_progress_report_solo_fix_pycaret_3011.md).    
+&rarr; I have documented my week-14 progress [here](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-14/week14_progress_report_solo_fix_pycaret_3011.md).   
+&rarr; I have submitted a [pull request](https://github.com/pycaret/pycaret/pull/4104) fixing the [Issue #3011](https://github.com/pycaret/pycaret/issues/3011) and [documented the solution](https://github.com/bennColl-cs4387/sizar/blob/main/assignments/solo-fixes/pycaret-3011/pycaret_3011.md).  
+
 
