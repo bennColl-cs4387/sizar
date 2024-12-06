@@ -33,3 +33,8 @@ From this group fix, I learned about the complexity of debugging large codebases
 Progress Reports: [Build From Source](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-06/build_from_source.md) | [Week 9](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-09/group_fix_progress.md)  
 Group Documentation: [Solution to PyCaret Issue #3011 (Group Fix)](https://github.com/bennColl-cs4387/sizar/blob/main/assignments/group-fix/pycaret-3011/pycaret_3011.md)
 
+
+## Essay  
+
+For my first solo fix, I wrote an essay detailing why I chose the issue and my proposed solution:  
+&rarr; [Sizar - CS4387-Essay-Picking-First-Issue](https://github.com/bennColl-cs4387/sizar/blob/main/assignments/essay/essay_on_first_fix.md)
