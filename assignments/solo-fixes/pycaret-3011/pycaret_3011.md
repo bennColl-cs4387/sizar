@@ -19,7 +19,7 @@
    As part of the group, we focused on fixing the incorrect fold number display in the `_set_fold_generator` function by calculating the fold count dynamically for CV objects passed to `fold`. The group assumed that accepting CV objects in `fold` was an expected behavior and sought to fix the fold count calculation logic directly.
 
    **Why I Switched to a New Solution**:  
-   Upon reviewing the official PyCaret [documentation](), I realized that the group’s assumption was incorrect. The documentation explicitly states that the `fold` parameter must accept only integers and that custom CV objects like `ExpandingWindowSplitter` must be passed to the `fold_strategy` parameter instead. The existing behavior of accepting CV objects in `fold` was therefore unintended and required a stricter validation mechanism.  
+   Upon reviewing the official PyCaret [documentation](https://pycaret.readthedocs.io/en/stable/api/time_series.html#pycaret.time_series.TSForecastingExperiment), I realized that the group’s assumption was incorrect. The documentation explicitly states that the `fold` parameter must accept only integers and that custom CV objects like `ExpandingWindowSplitter` must be passed to the `fold_strategy` parameter instead. The existing behavior of accepting CV objects in `fold` was therefore unintended and required a stricter validation mechanism.  
 
 2. **Validation for `fold` Parameter**:  
    - Added a type check in the `setup()` function to raise a `TypeError` when a non-integer is passed to `fold`.
