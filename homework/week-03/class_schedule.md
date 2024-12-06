@@ -1,4 +1,7 @@
 # Weekly Grid: Open Source Software in Practice (CS4387)
+
+> <a href="https://docs.google.com/spreadsheets/d/1yWwf-fh3PES6CIb6Tr_0IHoXCXhu7YPrcLnqztgNYm0"><img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Fcf11c560-a360-4687-b481-7b86cdf76ab5&w=384&q=75" width="15" height="15" style="vertical-align: -4px;"></a> [Up-to-date schedule](https://docs.google.com/spreadsheets/d/1yWwf-fh3PES6CIb6Tr_0IHoXCXhu7YPrcLnqztgNYm0)
+
 | Week Number | Date        | Subject                        | Reading     | Due                                                     | Notes                                  |
 |-------------|-------------|--------------------------------|-------------|---------------------------------------------------------|----------------------------------------|
 | 1           | 9/9/2024    | Openning Session & Git         |             |                                                         |                                        |

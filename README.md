@@ -5,6 +5,9 @@ Hi, I am Sizar, a rising senior (graduating December, 2025) at Bennington Colleg
 ---
 
 ## CS 4387:Open Source Software in Practice: 
+
+&rarr; [Course Syllabus](https://github.com/bennColl-cs4387/sizar/blob/main/homework/week-03/class_syllabus.md)
+
 I took this course to gain hands-on experience contributing to open-source projects (especially related to AI/ML), improve my programming skills, and learn how collaborative development can solve real-world problems. Here are some work I have done in this class: 
 
 ## Solo Fixes
@@ -38,3 +41,38 @@ Group Documentation: [Solution to PyCaret Issue #3011 (Group Fix)](https://githu
 
 For my first solo fix, I wrote an essay detailing why I chose the issue and my proposed solution:  
 &rarr; [Sizar - CS4387-Essay-Picking-First-Issue](https://github.com/bennColl-cs4387/sizar/blob/main/assignments/essay/essay_on_first_fix.md)
+
+---
+
+## Learnings
+
+This course helped me better understand open-source development and how to contribute to large projects. By working on real-world issues in PyCaret, I gained a deeper understanding of how software is developed and maintained collaboratively.
+
+### What I Learned
+1. **Codebase Navigation**:  
+   I learned how to navigate through large codebases like PyCaret, which required understanding interconnected modules and debugging complex issues without disrupting existing functionality.
+
+2. **Error Validation**:  
+   I implemented better error validation mechanisms, ensuring users receive clear feedback when they make mistakes. For example, ensuring the `fold` parameter accepts only integers and providing meaningful messages if it doesn't.
+
+3. **Teamwork**:  
+   Working on the group fix taught me how to divide tasks effectively and communicate clearly with teammates to solve problems collaboratively.
+
+4. **Dependency Management**:  
+   In my first solo fix, I moved plotting dependencies to an optional section. This taught me how to handle dependencies efficiently, making installations smaller and faster.
+
+5. **Open-Source Contribution**:  
+   I learned about GitHub workflows like creating pull requests, responding to feedback, and writing clean documentation.
+
+### Challenges and Next Steps
+- Debugging complex functionality was difficult, especially when dealing with edge cases. It pushed me to improve my problem-solving and Python skills.
+- Merging changes and handling Git conflicts was challenging but helped me understand version control better.
+- I will continue contributing to Machine Learning related projects. 
+- I want to work on more system-level programming and explore contributing to Rust-based projects in the future.
+
+As the term comes to the end, I want to express my heartfelt gratitude to Professor Michael Corey ([@mcorey](https://github.com/mcorey)) for his guidance and support throughout this course. This class has been an invaluable learning experience, allowing me to develop my skills, contribute to meaningful projects, and gain confidence in open-source collaboration. I am deeply thankful for the opportunity to learn, implement, and achieve under his mentorship.
+
+
+
+
+
